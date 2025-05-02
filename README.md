@@ -1,6 +1,5 @@
 # 🏗️ Selectores en HTML y CSS
 
-
 <p align="center"> 
   <img src="https://media1.tenor.com/m/L_Pc6gbmGxgAAAAC/pepe-the-frog-boxing.gif" width="300"/> 
 </p>
@@ -66,20 +65,20 @@ Proyecto Diseño de Columnas/
 - ❌ No se requiere instalación de software adicional
 
 ## 📦 Visualización
-Simplemente abre el archivo `layout-fluido-con-dos-columnas.html` directamente en tu navegador web preferido.
+Simplemente abre el archivo `index.html` directamente en tu navegador web preferido.
 
 ```bash
 # Ejemplo en Linux/macOS:
-open layout-fluido-con-dos-columnas.html
+open -index.html
 
 # Ejemplo en Windows (desde CMD o PowerShell):
-start layout-fluido-con-dos-columnas.html
+start index.html
 ```
 O haz doble clic sobre el archivo en tu explorador de archivos.
 
 ## 🚀 Uso
-1. Abre `layout-fluido-con-dos-columnas.html` en tu navegador.
-2. Observa cómo el layout se adapta al tamaño de la ventana del navegador.
+1. Abre `index.html` en tu navegador.
+2. Observa cómo el layout slayout-fluido-con-dose adapta al tamaño de la ventana del navegador.
 3. Prueba a redimensionar la ventana para ver cómo el diseño fluido se ajusta.
 
 ## 📱 Compatibilidad
